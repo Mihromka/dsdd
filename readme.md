@@ -1,3 +1,7 @@
+$ git init
+$ git add .
+$ git commit -m "init"
+$ git remote add origin https://github.com/Mihromka/dsdd.git
 $ git push  https://Mihromka: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@github.com/Mihromka/dsdd.git
 Enumerating objects: 222, done.
 Counting objects: 100% (222/222), done.
